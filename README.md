@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @algoon3438
 - 👀 I’m interested in python!
-- 🌱 I’m currently learning html, css, python, java
+- 🌱 I’m currently learning html, css, python, java, javascript, kotlin, sql (maybe too much)
 - 📫 How to reach me: algoon3438@gmail.com
 
 <!---
